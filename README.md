@@ -1,2 +1,3 @@
-# midlevelboss
-Mid Level Boss
+# Mid Level Boss
+
+A game about careers
